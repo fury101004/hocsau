@@ -27,7 +27,7 @@ realtime webcam**.
 
   Webcam realtime            Dự đoán ảnh
   -------------------------- ----------------------------
-  ![demo](demo_webcam.gif)   ![demo2](demo_predict.jpg)
+  ![demo](gd1.png)   ![demo2](gd2.png)
 
 ------------------------------------------------------------------------
 
