@@ -1,0 +1,19 @@
+opencv-python
+<<<<<<< HEAD
+numpy
+tensorflow
+mediapipe
+matplotlib
+seaborn
+pandas
+scikit-learn
+=======
+imbalanced-learn
+joblib
+matplotlib
+numpy
+seaborn
+scikit-image
+scikit-learn
+tqdm
+>>>>>>> 17eb31e786c02a169afae8a5a0194d0b5046ce7a
